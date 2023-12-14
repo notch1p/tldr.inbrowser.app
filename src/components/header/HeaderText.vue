@@ -1,7 +1,7 @@
 <template>
   <div>
     <n-h1 class="h1">
-      <a href="https://tldr.inbrowser.app" target="_blank" v-if="isIframe">
+      <a href="https://man.notch1p.xyz" target="_blank" v-if="isIframe">
         <SiteName />
       </a>
 

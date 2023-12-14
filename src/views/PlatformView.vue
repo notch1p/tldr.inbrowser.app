@@ -57,7 +57,7 @@ useHead({
   link: [
     {
       rel: "canonical",
-      href: `https://tldr.inbrowser.app${route.path}`,
+      href: `https://man.notch1p.xyz${route.path}`,
     },
   ],
 });

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tldr.inbrowser.app/pages-sitemap.xml
+Sitemap: https://man.notch1p.xyz/pages-sitemap.xml

@@ -17,7 +17,7 @@ import BrowseCommands from "@/components/misc/BrowseCommands.vue";
 import { useHead } from "@vueuse/head";
 
 useHead({
-  title: "tldr InBrowser.App",
+  title: "TL;DR Manpages",
   meta: [
     {
       name: "description",

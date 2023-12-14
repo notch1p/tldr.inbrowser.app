@@ -45,7 +45,7 @@ const route = useRoute();
 useHead({
   title: `${platformDisplay.value} commands${
     language.value !== "" ? ` in ${languageDisplay.value}` : ""
-  } | tldr InBrowser.App`,
+  } | tldr`,
   meta: [
     {
       name: "description",

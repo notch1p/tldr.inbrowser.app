@@ -1,6 +1,8 @@
 name: Build Site and Upload Artifact
 
 on:
+  schedule:
+    - cron: "0 0 * * 1"
   push:
   pull_request:
     branches: ["main"]
